@@ -8,6 +8,7 @@ The projects are designed in three levels. Each level contains 5-10 projects, an
 
 ## 🎈 Level I
   - Number Guesser Game
+  - Rock Paper Scissors
 
 ## 🚀 Level II
 
